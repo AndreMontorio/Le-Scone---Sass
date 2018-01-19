@@ -1,0 +1,29 @@
+{
+  "name": "lescone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-wait": "0.0.2",
+    "gulp-watch": "^5.0.0",
+    "tiny-lr": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreMontorio/Le-Scone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndreMontorio/Le-Scone/issues"
+  },
+  "homepage": "https://github.com/AndreMontorio/Le-Scone#readme",
+  "description": ""
+}
